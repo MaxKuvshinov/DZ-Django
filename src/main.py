@@ -49,4 +49,4 @@ if __name__ == "__main__":
         pass
 
     webServer.server_close()
-    print("Сервер остановлен.")
+    print("Сервер остановлен!")
